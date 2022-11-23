@@ -55,7 +55,7 @@ fontcharset fontcharset = ansi!
 fontpitch fontpitch = variable!
 fontfamily fontfamily = swiss!
 string facename = "Tahoma"
-string text = "SIG"
+string text = "Abrir SIG"
 end type
 
 event clicked;
